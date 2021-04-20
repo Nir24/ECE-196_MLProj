@@ -3,4 +3,6 @@
 ### Good vars
 
 Need to choose a fair amount of variables to not over fit the data.
-MSSubClass, MSZoning , LotShape , LandContour , Neighborhood , BldgType , HouseStyle(left it here)
+MSSubClass, MSZoning , LotShape , LandContour , Neighborhood , BldgType , HouseStyle(left it here), overallQual , OverallCond ,
+
+BSMEXPOSURE Doesnt look like it matterss
